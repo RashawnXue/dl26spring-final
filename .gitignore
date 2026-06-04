@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+results/
+tmp_test/results/
+tmp_test/results-*/
+97b3d58e-84e3-40e4-815a-b37696ffe12b
+final_report_draft.md

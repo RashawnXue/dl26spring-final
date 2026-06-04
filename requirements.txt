@@ -1,0 +1,8 @@
+torch
+transformers==4.41.2
+datasets
+tqdm
+accelerate
+sentencepiece
+tiktoken
+protobuf
