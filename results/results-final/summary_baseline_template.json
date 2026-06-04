@@ -1,0 +1,13 @@
+{
+  "method": "baseline_template",
+  "total": 164,
+  "passed": 0,
+  "pass_at_1": 0.0,
+  "syntax_ok": 164,
+  "syntax_pass_rate": 1.0,
+  "failure_types": {
+    "assertion_failed": 162,
+    "runtime_error": 2
+  },
+  "avg_elapsed_sec": 0.0603
+}
